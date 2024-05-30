@@ -3,7 +3,7 @@
 | paper | 会议/期刊 | code | dataset | 分类|
 |---------|---------|---------|---------|---------|
 ###无文字
-| Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation. [ [paper](https://arxiv.org/abs/2311.13602) ] [ [code](https://udonda.github.io/RALF/) ] | CVPR24Oral |  |PKU/CGL/PKU annotated/CGL annotated| 商品广告框生成|
+| Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation. [[paper](https://arxiv.org/abs/2311.13602)][[code](https://udonda.github.io/RALF/)] | CVPR24Oral |  |PKU/CGL/PKU annotated/CGL annotated| 商品广告框生成|
 | [Desigen: A Pipeline for Controllable Design Template Generation]() | CVPR24 | [code](https://whaohan.github.io/desigen)  ||ppt模版框生成|
 | [Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation]() | CVPR23 | [code]() ||商品广告框生成|
 | [Relation-Aware Diffusion Model for Controllable Poster Layout Generation]() |  | [code](https://github.com/liuan0803/RADM)||商品广告框生成|
