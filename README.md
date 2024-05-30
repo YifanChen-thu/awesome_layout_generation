@@ -5,9 +5,9 @@
 ###无文字
 | [Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation]() | CVPR24Oral | [RALF_code](https://udonda.github.io/RALF/) |PKU/CGL/PKU annotated/CGL annotated| 商品广告框生成|
 | [Desigen: A Pipeline for Controllable Design Template Generation]() | CVPR24 | [code](https://whaohan.github.io/desigen)  ||ppt模版框生成|
-| [Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation]() | CVPR23 |  [code](） ||商品广告框生成|
+| [Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation]() | CVPR23 | [code]() ||商品广告框生成|
 | [Relation-Aware Diffusion Model for Controllable Poster Layout Generation]() |  | [code](https://github.com/liuan0803/RADM)||商品广告框生成|
-| [Geometry Aligned Variational Transformer for Image-conditioned Layout Generation]() | MM22 |  [code](） ||商品广告框生成|
+| [Geometry Aligned Variational Transformer for Image-conditioned Layout Generation]() | MM22 |  [code]() ||商品广告框生成|
 | [Composition-aware Graphic Layout GAN forVisual-textual Presentation Designs]() | IJCAI22 | [code](https://github.com/minzhouGithub/CGL-GAN)||商品广告框生成|
 
 ###带文字
