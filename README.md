@@ -35,4 +35,6 @@
 |  |  |  [code]()  |||
 
 ## content-agnostic & content-aware 
+| paper | 会议/期刊 | code | dataset | 分类|
+|---------|---------|---------|---------|---------|
 | [LayoutPrompter: Awaken the Design Ability of Large Language Models]() | NeurIPS23 |  [code](https://github.com/microsoft/LayoutGeneration/tree/main/LayoutPrompter） ||商品广告框生成|
