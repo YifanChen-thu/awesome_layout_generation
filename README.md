@@ -37,3 +37,10 @@
 | .[[paper]()][[code]()]| |||
 | .[[paper]()][[code]()]| |||
 | .[[paper]()][[code]()]| |||
+
+## 综述
+| paper | 会议/期刊 | dataset | 分类|
+|---------|---------|---------|---------|
+| A Survey for Graphic Design Intelligence.[[paper](https://arxiv.org/abs/2309.01371)][[code]()]| |||
+| .[[paper]()][[code]()]| |||
+| .[[paper]()][[code]()]| |||
