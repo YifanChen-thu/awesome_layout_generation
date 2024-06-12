@@ -1,4 +1,4 @@
-![image](https://github.com/YifanChen-thu/awesome_layout_generation/assets/30226033/096ef91e-6515-482b-b929-23e6f8ec20e8)# awesome_layout_generation
+# awesome_layout_generation
 ## content-aware
 ### 无文字
 | paper | 会议/期刊 | dataset | 分类|
