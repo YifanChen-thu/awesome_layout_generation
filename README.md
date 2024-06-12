@@ -1,4 +1,4 @@
-# awesome_layout_generation
+![image](https://github.com/YifanChen-thu/awesome_layout_generation/assets/30226033/096ef91e-6515-482b-b929-23e6f8ec20e8)# awesome_layout_generation
 ## content-aware
 ### 无文字
 | paper | 会议/期刊 | dataset | 分类|
@@ -9,6 +9,7 @@
 | Relation-Aware Diffusion Model for Controllable Poster Layout Generation.[[paper](https://arxiv.org/abs/2306.09086)][[code](https://github.com/liuan0803/RADM)]|  ||商品广告框生成|
 | Geometry Aligned Variational Transformer for Image-conditioned Layout Generation.[[paper](https://arxiv.org/abs/2209.00852)][[code]()] | MM22 ||商品广告框生成|
 | Composition-aware Graphic Layout GAN forVisual-textual Presentation Designs.[[paper](https://arxiv.org/abs/2205.00303)][[code](https://github.com/minzhouGithub/CGL-GAN)] | IJCAI22 ||商品广告框生成|
+| MaskPLAN: Masked Generative Layout Planning from Partial Input.[[paper]()][[code](https://github.com/HangZhangZ/MaskPLAN)]|CVPR24 |||
 
 ### 带文字
 | paper | 会议/期刊 | dataset | 分类|
@@ -16,8 +17,8 @@
 | Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation.[[paper](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)][[code](https://aminshabani.github.io/visual_layout_composer)]| CVPR24   ||带文字的海报框生成|
 | PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout.[[paper](https://arxiv.org/abs/2303.15937)][[code](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)] | CVPR23 ||带文字的海报框生成|
 | Content-aware Generative Modeling of Graphic Design Layouts.[[paper](https://xtqiao.com/projects/content_aware_layout/)][[code]()] | SIGGRAPH 19 & TOG19  |PKU PosterLayout [[pku netdisk(pw: CdXe)](https://disk.pku.edu.cn/link/AAA388D2D0CC4D4B49AEA5B0AF05356CF6)][[google driver](https://drive.google.com/drive/folders/1Gk202RVs9Qy2zbJUNeurC1CaQYNU-Vuv)]|文章图片生成|
-| .[[paper]()][[code]()]| |||
-| .[[paper]()][[code]()]| |||
+| Text Grouping Adapter: Adapting Pre-trained Text Detector for Layout Analysis.[[paper](https://arxiv.org/abs/2405.07481)][[code]()]|CVPR24||框分析|
+| LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding.[[paper](https://arxiv.org/abs/2404.05225)][[code]()]|CVPR24 ||问答框生成|
 | .[[paper]()][[code]()]| |||
 
 
@@ -26,7 +27,6 @@
 |---------|---------|---------|---------|
 | TOWARDS ALIGNED LAYOUT GENERATION VIA DIFFUSION MODEL WITH AESTHETIC CONSTRAINTS.[[paper](https://arxiv.org/abs/2402.04754)][[code](https://anonymous.4open.science/r/LACE-16DE)] | ICLR24  ||海报框生成|
 | LayoutDM: Discrete Diffusion Model for Controllable Layout Generation.[[paper](https://arxiv.org/abs/2303.08137)][[code](https://cyberagentailab.github.io/layout-dm/)] | CVPR23 ||海报框生成|
-| .[[paper]()][[code]()]| |||
 | .[[paper]()][[code]()]| |||
 | .[[paper]()][[code]()]| |||
 
